@@ -1,0 +1,98 @@
+body{
+    text-align:center;
+    font-family:montserrat;
+    background-color: rgb(241, 247, 247);
+}
+
+div{
+    color: #000000;
+    
+} 
+h1{
+    margin-top:10%;
+    font-family:sacramento;
+    font-size: 4em;
+}
+h2{
+    font-family:dancing script ;
+}
+.pro{
+    text-decoration: underline;
+}
+.top-container{
+    background-color:lightcyan;
+    position:relative;
+    padding-top: 100px;
+   
+}  
+.middle-container{
+    margin: 100px 0;
+} 
+.bottom-cloud{
+    position: absolute;
+    bottom: 300px;
+    left: 250px;
+}
+.top-cloud{
+ position: absolute;   
+ right: 300px;
+ top: 40px;
+}
+hr{
+    width: 70%;
+    margin: 100px auto;
+    border-style: ridge;
+    border-color: darkgrey;
+}
+.proffile{
+   height: 250px;
+   width: 250px;
+}
+.img1{
+    width: 25%;
+    float: left;
+    padding-left: 30px;
+}
+.img2{
+    width:20%;
+    float: right;
+    padding-right: 30px;
+}
+h2{
+    color: aqua;
+    font-size: 2em;
+    padding-bottom: 10px;
+}
+h3{
+    color: aqua;
+    text-align: center;
+}
+.skill-row1{
+    width: 50%;
+    line-height: 2;
+    margin: 100px auto;
+    
+}
+.skill-row2{ 
+    width: 50%;
+    line-height: 2;
+    margin: 100px auto;
+
+}
+.intro{
+    margin: auto;
+    line-height: 2;
+}
+p{
+    width: 40%;
+}
+.contact-msg{
+    margin: 40px auto 30px;
+}
+.p1{
+    text-align: center;
+}
+.mountain{
+    width: auto;
+    height: auto;
+}
